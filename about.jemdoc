@@ -1,0 +1,130 @@
+# jemdoc: menu{MENU}{about.html}
+== Xiaodong Cheng - About
+
+
+== Bio
+
+~~~
+{Experience}
+- *Tenure Track Assistant Professor*, 2022 - present\n
+Biometris, Department of Plant Science, Wageningen University & Research, The Netherlands\n
+
+- *Research Associate*, 2020 - 2022\n
+Control Group, Department of Engineering, University of Cambridge, UK \n
+Work with [http://www.eng.cam.ac.uk/profiles/icl20 Prof. Ioannis Lestas] on the project [https://cordis.europa.eu/project/id/679774 /Analysis and Control of Large Scale Networks/]
+
+- *Postdoc researcher*, 2019 - 2020 \n
+[https://www.tue.nl/en/research/research-groups/control-systems/ Control systems group], Department of Electrical Engineering, Eindhoven University of Technology, The Netherlands \n
+Work with [http://www.pvandenhof.nl/ Prof. Paul M.J. Van den Hof]
+on the project [https://www.sysdynet.eu/ /Data-Driven Modeling in Dynamic Networks/].
+~~~
+
+
+~~~
+{Education}
+- *PhD in Systems and Control* (distinction cum laude), 2014 - 2018 \n
+Jan C. Willems Center for Systems and Control, ENTEG, Faculty of Science and Engineering, University of Groningen, The Netherlands.\n
+Thesis: [https://www.rug.nl/research/portal/publications/model-reduction-of-network-systems-with-structure-preservation(b431dc0a-f0ec-40ed-a8b0-7b84a8c29d48).html /Model reduction of network systems with structure preservation/], Supervisor: [https://www.rug.nl/staff/j.m.a.scherpen/ Prof. Jacquelien M. A. Scherpen].  
+
+- *B.S. and M.S. in Control Engineering*, 2007 -  2014 \n
+School of Electronics and Information, Northwestern Polytechnical University, China
+~~~
+
+
+
+- I am the recipient of the [https://www.ifac-control.org/awards/journal-awards {{<font color=red><b>}}Paper Prize Award{{</b></font>}}] from the IFAC Journal Automatica for the best paper published in the triennium 2017-2019 and the 2020 IEEE Transactions on Control Systems Technology {{<font color=red><b>}}Outstanding Paper
+Award{{</b></font>}}. \n
+
+== Academic Services
+
+~~~
+{Editorial Service and Conference Organization}
+
+- *Invited session organizer*, an invited session on cyber-physical systems in the 21st European Control Conference (ECC 2023) 
+
+-  *SIAM Associate Editor*, American Control Conference, since 2022
+
+-  *Associate Editor*, EUCA Conference Editorial Board (EUCA-CEB), since 2021
+
+- *Symposium organizer*, three symposiums on model reduction in the SIAM Conference on Control and Its Applications (CT21)
+~~~
+
+~~~
+{Reviewing Services}
+I serve as a reviewer for the following journals and conferences in the systems and control field.
+
+ - *Journals*:
+ IEEE Transactions on Automatic Control, Automatica,  SIAM Journal
+on Control and Optimization,   IEEE Transactions on Control
+Systems Technology,   IEEE Transactions on Control of Network Systems,  IEEE/CAA Journal of Automatica Sinica, IEEE Transactions on Network Science and
+Engineering, IEEE Control Systems Letters,   Nonlinear Dynamics,
+  IEEE Transactions on Circuits and Systems,   ISA Transactions, 
+IEEE Transactions on Computer-Aided Design of Integrated Circuits
+and Systems,   Energies, Advances in Applied Mathematics,  Mathematical and Computer Modelling
+of Dynamical Systems,   IMA Journal of Mathematical Control and
+Information.
+
+
+ - *Conferences*: IEEE Conference on Decision and Control (CDC),   IFAC World
+Congress,   American Control Conference (ACC),   European Control Conference
+(ECC),  International Conference on Control and Automation
+(ICCA),  IFAC Conference on Analysis and Control of Chaotic Systems
+(CHAOS),   IEEE PES Innovative Smart Grid Technologies Europe
+(ISGT-Europe).
+~~~
+
+== Honors and Awards
+
+~~~
+{Since PhD}
+- In 2020, my co-authored paper "A Robust Consensus Algorithm for Current Sharing and Voltage Regulation in DC Microgrids" received the 2020 IEEE Transactions on Control Systems Technology Outstanding Paper Award. "This award recognizes the paper's originality, relevance of the application, clarity of exposition, and demonstrated impact on control systems technology".   
+
+- In 2020, I received a [https://www.ifac-control.org/awards/journal-awards Paper Prize Award] from the IFAC Journal Automatica, for the best paper published in the triennium 2017-2019. This paper deals with model reduction of networked passive systems,  which is joint work with Prof. Jacquelien M.A. Scherpen and Dr. Bart Besselink (see my publication list).
+
+- In 2019, I received the Best Engineering Thesis Award, issued by Groningen Engineering Business Center 
+\[[https://www.rug.nl/fse/engineering/news/thesisaward.jpg Photo]\].
+
+- In 2018, I obtained my PhD degree, which was given the distinction cum laude (<5%), University of Groningen.
+
+- In 2018, I received support from the [https://euca-ecc.org/student_travel_support.html EUCA Student Travel Support Program] to attend the European Control Conference 2018 (ECC2018).
+
+- In 2017, I obtained travel funding from the [http://www.eu-mor.net/ COST Action EU-MORNET] to attend the [http://www.maths.dur.ac.uk/lms/107/  EPSRC Durham Symposium on "Model Order Reduction"] \[[http://www.maths.dur.ac.uk/lms/107/photo.jpg Photo]\].
+~~~
+
+~~~
+{Prior to PhD}
+- 2014: Outstanding Postgraduate Award of Northwestern Polytechnical University.
+
+-  2012 and 2013: I received the National Scholarship twice, from the Chinese Ministry of Education.
+
+-  2012 and 2013: our NPU robot team held the world champion for two years of the [http://www.firaworldcup.org/VisitorPages/show.aspx?ItemID=805,0 Middle League SimuroSot], in the 17th and 18th FIRA RoboWorld Cup, at Bristol (the UK) and Kuala Lumpur (Malaysia), respectively.
+
+- 2013: our NPU robot team won the Champions of the competitions: Wheeled Robot Soccer 11vs11 and SimuroSot 5vs5 in the 17th RoboCup China Open at Hefei, China.
+
+- 2012 and 2013: our NPU robot team won the National Champion of Middle League SimuroSot in the 14th and 15th National Robot Championship at Harbin and Guiyang.
+
+- 2012:  I received the Huawei Scholarship.
+
+- 2012:  The 2nd Prize in the 9th "HUAWEI CUP" National Postgraduate Mathematical Contest in Modeling.
+
+- 2010: Outstanding Bachelor Thesis Award of Northwestern Polytechnical University.
+
+-  2010: The 1st Prize (Shaanxi province) in the 20th National Undergraduate Mathematical Contest in Modeling.
+
+-  2010: The 2nd Prize (Shaanxi province) in the 7th National College Advanced Mathematics Contest.
+
+-  2010:  I received the National Endeavor Fellowship from the Chinese Ministry of Education.
+
+-  2008: The Hong Kong, Macau and Overseas Chinese Scholarship.
+~~~
+
+
+
+
+== CV
+
+My complete [x.cheng.auto@gmail.com CV] available upon request.
+
+
+
+

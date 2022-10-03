@@ -1,0 +1,241 @@
+# jemdoc: menu{MENU}{publications.html}
+=Publications
+
+
+~~~
+{Submitted Journal Articles}
+
+
+. {{<font color=DarkBlue>}} [An Optimal Projection Framework for Structure-Preserving Model Reduction of Linear Systems]  {{</b></font>}}\n
+*X. Cheng* (2022) 
+
+
+. {{<font color=DarkBlue>}} [Clustering-Based Average State Observer Design for Large-Scale Network Systems]  {{</b></font>}}\n
+M. U. B. Niazi, *X. Cheng*, C Canudas-de-Wit, J. M. A. Scherpen (2022)\[[https://arxiv.org/abs/2205.13633 arXiv]\]
+
+
+. {{<font color=DarkBlue>}} [I Identifiability in Dynamic Acyclic Networks with Partial Excitations
+and Measurements]  {{</b></font>}}\n
+*X. Cheng*, S. Shi, I. Lestas, and P. M. J. Van den Hof. (2021)\[[https://arxiv.org/abs/2201.07548 arXiv]\]
+
+. {{<font color=DarkBlue>}} [N Necessary Condition for Network Identifiability with Partial Excitation and Measurement]  {{</b></font>}}\n
+*X. Cheng*, S. Shi, I. Lestas, and P. M. J. Van den Hof. (2021)\[[http://arxiv.org/abs/2105.03187 arXiv]\]
+
+
+
+~~~
+
+~~~
+{Journal Articles}
+
+. {{<font color=DarkBlue  >}} [https://ieeexplore.ieee.org/document/9864230 Reduced-Order Modeling of Diffusively Coupled Network Systems: An Optimal Edge Weighting Approach]  {{</b></font>}}\n
+*X. Cheng*, L. Yu, D. Ren, and J. M. A. Scherpen(2022) \n
+/IEEE Transactions on Automatic Control/, Early Access, 2022
+\[[https://arxiv.org/abs/2003.03559 arXiv]\]
+
+
+. {{<font color=DarkBlue  >}} [https://ieeexplore.ieee.org/document/9764800 Excitation allocation for generic identifiability of linear dynamic networks with fixed modules]  {{</b></font>}}\n
+H. J. Dreef, S. Shi, *X. Cheng*, M. C. F. Donkers, and P. M. J. Van den Hof\n
+/IEEE Control Systems Letters/, vol. 6, pp. 2587-2592, 2022
+\[[https://arxiv.org/abs/2201.09095 arXiv]\]
+
+
+. {{<font color=DarkBlue  >}} [https://ieeexplore.ieee.org/abstract/document/9740609 Interconnection and Approximation in Networks of Dissipative Systems: Addressing Topological Simplification]  {{</b></font>}}\n
+S. Weiland and *X. Cheng*\n
+/IEEE Control Systems Magazine/, vol. 42, no. 2, pp.107-117, 2022. 
+
+
+
+ . {{<font color=DarkBlue  >}} [https://doi.org/10.1016/j.automatica.2021.110118 $H_2$ model reduction for diffusively coupled second-order networks by convex-optimization]  {{</b></font>}}\n
+L. Yu, *X. Cheng*, J. M. A. Scherpen, and J. Xiong\n
+/Automatica/, vol. 137, 110118, 2022. \[[https://arxiv.org/abs/2104.04321 arXiv]\]
+
+
+ . {{<font color=DarkBlue  >}} [https://doi.org/10.1016/j.automatica.2021.110093 Generic
+identifiability of subnetworks in a linear dynamic network: the full
+measurement case]  {{</b></font>}}\n
+S. Shi, *X. Cheng*, and P. M. J. Van den Hof\n
+/Automatica/, vol. 137, 110093, 2022. \[[https://arxiv.org/abs/2008.01495 arXiv]\]
+
+
+. {{<font color=DarkBlue  >}} [https://ieeexplore.ieee.org/document/9028137
+Full-Adaptive-Gain Based Intelligent Failure-Tolerant Control for Spacecraft Attitude Stabilization under Actuator
+Saturation]  {{</b></font>}}\n
+N. Zhou, *X. Cheng*, Y. Xia, and Y. Liu\n
+/IEEE Transactions on Cybernetics/, vol. 52 no. , pp. 344-356, 2022.\[[https://arxiv.org/pdf/2103.06589.pdf arXiv]\]
+
+
+
+. {{<font color=DarkBlue  >}} [https://doi.org/10.1109/TAC.2021.3053540 Allocation of Excitation Signals for Generic Identifiability of Linear Dynamic Networks]  {{</b></font>}}\n
+*X. Cheng*, S. Shi, and P. M. J. Van den Hof\n
+/IEEE Transactions on Automatic Control/, vol. 67, no. 2, pp.692-705, 2021. \[[https://arxiv.org/abs/1910.04525 arXiv]\]
+
+
+. {{<font color=DarkBlue  >}} [https://ieeexplore.ieee.org/abstract/document/9661422 Single module identifiability in linear dynamic networks with partial
+excitation and measurement]  {{</b></font>}}\n
+S. Shi, *X. Cheng*, and P. M. J. Van den Hof\n
+/IEEE Transactions on Automatic Control/, Early Access, (2021). \[[https://arxiv.org/abs/2012.11414 arXiv]\]
+
+
+. {{<font color=DarkBlue  >}} [https://doi.org/10.1109/TCYB.2021.3057219  Fixed-Time Cooperative Behavioral Control for Networked Autonomous Agents with Second-Order Nonlinear Dynamics]  {{</b></font>}}\n
+N. Zhou, *X. Cheng*, Z. Sun, Y. Xia, and Y. Liu\n
+/IEEE Transactions on Cybernetics/, Early Access, (2021). \[[https://arxiv.org/pdf/2103.06589.pdf arXiv]\]
+
+
+ 
+ . {{<font color=DarkBlue  >}} [https://www.annualreviews.org/doi/abs/10.1146/annurev-control-061820-083817 
+Model Reduction Methods for Complex Network Systems]  {{</b></font>}}\n
+*X. Cheng*, and J. M. A. Scherpen\n
+/Annual Review of Control, Robotics, and
+Autonomous Systems/, vol. 4, pp. 425-453, 2021. \[[https://arxiv.org/abs/2012.02268 arXiv]\]
+
+
+ . {{<font color=DarkBlue  >}} [https://doi.org/10.1016/j.automatica.2020.108911
+Novel Gramians for Linear Semistable
+Systems]  {{</b></font>}}\n
+*X. Cheng*, and J. M. A. Scherpen\n
+/Automatica/, vol. 115, 108911, 2020. \[[https://arxiv.org/abs/1901.01285  arXiv]\]
+
+. {{<font color=DarkBlue  >}} [https://ieeexplore.ieee.org/document/8906039 Clustering-Based Model Reduction of Laplacian Dynamics with Weakly Connected Topology].   {{</b></font>}}\n
+*X. Cheng*, and J. M. A. Scherpen\n
+/IEEE Transactions on
+Automatic Control/, vol. 65, no. 10, pp. 4393-4399, 2020. \[[https://arxiv.org/abs/1901.01285 arXiv]\]
+
+
+. {{<font color=DarkBlue  >}} [https://doi.org/10.1016/j.ejcon.2019.06.001 Model Reduction of Synchronized Homogeneous Lur'e Networks with Incrementally Sector-Bounded Nonlinearities].   {{</b></font>}}\n
+*X. Cheng*, J. M. A. Scherpen, and F. Zhang\n
+/European Journal of Control/, vol. 50, pp. 11-19, 2019.
+
+
+. {{<font color=DarkBlue  >}} [https://doi.org/10.1016/j.automatica.2019.02.045 
+Balanced Truncation of Networked Linear Passive Systems ].   {{</b></font>}}\n
+*X. Cheng*, J. M. A. Scherpen, and B. Besselink\n
+/Automatica/, vol. 104, pp. 17-25, 2019.
+\[[https://arxiv.org/abs/1710.03455 arXiv]\] {{<font color=red size=+0.5><b>}}Paper Prize Award in the triennium 2017-2019{{</b></font>}}
+
+
+. {{<font color=DarkBlue  >}} [https://ieeexplore.ieee.org/document/8413114 Distributed averaging control for voltage regulation and current sharing in DC Microgrids]  {{</b></font>}}\n
+S. Trip, M. Cucuzzella, *X. Cheng*, and J. M. A. Scherpen\n
+/IEEE Control Systems Letters/, vol. 3, no. 1, pp. 174-179, 2019. \[[https://www.rug.nl/research/portal/files/72539111/18_0171_03_MS.pdf Paper link]\] 
+
+
+. {{<font color=DarkBlue  >}} [https://ieeexplore.ieee.org/document/8404001 Model Reduction of Multiagent Systems Using Dissimilarity-Based Clustering].   {{</b></font>}}\n
+*X. Cheng*, Y. Kawano, and J. M. A. Scherpen\n
+/IEEE Transactions on
+Automatic Control/, vol. 64, no. 4, pp. 1663-1670, 2019.  
+
+
+. {{<font color=DarkBlue  >}} [https://ieeexplore.ieee.org/document/8362802 A Robust Consensus Algorithm for Current Sharing and Voltage Regulation in DC Microgrids]  {{</b></font>}}\n
+M. Cucuzzella, S. Trip, C. De Persis,  *X. Cheng*, A. Ferrara,
+and A.J. van der Schaft\n
+/IEEE Transactions on Control Systems Technology/, vol. 27, no. 4, pp. 1583-1595, 2019. \[[https://arxiv.org/abs/1708.04608 arXiv]\] {{<font color=red size=+0.5><b>}}Outstanding Paper Award{{</b></font>}}
+
+
+ . {{<font color=DarkBlue  >}} [https://link.springer.com/article/10.1007/s10444-018-9617-5 Clustering Approach to Model Order Reduction of Power Networks with Distributed Controllers].   {{</b></font>}}\n
+*X. Cheng*, and J. M. A. Scherpen\n
+/IEEE Transactions on
+Automatic Control/, vol. 44, no. 6, pp. 1917-1939, 2018.
+
+
+. {{<font color=DarkBlue  >}} [https://ieeexplore.ieee.org/document/7874139 Reduction of Second-Order Network Systems with Structure Preservation].   {{</b></font>}}\n
+*X. Cheng*, Y. Kawano, and J. M. A. Scherpen\n
+/IEEE Transactions on
+Automatic Control/, vol. 62, no. 4, pp. 5026-5038, 2017.  
+\[[https://arxiv.org/abs/1706.01751 arXiv]\]
+
+~~~
+
+~~~
+{Book Chapter}
+
+. {{<font color=DarkBlue  >}} [https://doi.org/10.1515/9783110499001-011 Reduced-order modeling of large-scale network systems].   {{</b></font>}}\n
+*X. Cheng*, J. M. A. Scherpen, and H. L. Trentelman \n
+Volumn 3 Applications, / Model Order Reduction /. (Berlin, Boston: De Gruyter, 2020)
+
+~~~
+
+~~~
+{Conference Papers}
+
+ 
+. {{<font color=DarkBlue  >}}  [https://ieeexplore.ieee.org/document/9304057 Distributed Formation Control of Multi-Robot Systems: A Fixed-Time Behavioral Approach]  {{</b></font>}}\n
+N. Zhou, *X. Cheng*, Y. Xia, and Y. Liu \n
+/Proc. 59th IEEE Conference on Decision and Control (CDC2020)/. 2020. pp. 4017-4022.
+
+. {{<font color=DarkBlue  >}}  [https://doi.org/10.1016/j.ifacol.2020.12.042 Excitation allocation for generic identifiability of a single module in dynamic networks: a graphic approach]  {{</b></font>}}\n
+S. Shi, *X. Cheng*, and P. M. J. Van den Hof \n
+/IFAC-PapersOnLine/, vol. 53, no.  2, pp. 40-45, 2020, (/21st IFAC World Congress/, Berlin, Germany)
+
+. {{<font color=DarkBlue  >}}  [https://ieeexplore.ieee.org/abstract/document/9143680 A suboptimal $H_2$ clustering-based model reduction approach for linear network systems] {{</b></font>}}\n
+*X. Cheng*, I. Necoara\n
+/Proc. 17th European Control Conference (Virtual ECC2020)/. Saint Petersburg, Russia, 2020, pp. 1961-1966.
+
+. {{<font color=DarkBlue  >}}  [https://ieeexplore.ieee.org/document/9029218 Allocation of Excitation Signals for Generic Identifiability of Dynamic Networks] {{</b></font>}}\n
+*X. Cheng*, S. Shi,  and P. M. J. Van den Hof \n
+/Proc.  58th IEEE Conference on Decision and Control (CDC2019)/. Nice, France, 2019, pp. 5507-5512.
+
+. {{<font color=DarkBlue  >}} [https://ieeexplore.ieee.org/document/9029857 Synchronization preserving model reduction of multi-agent network systems by eigenvalue assignments] {{</b></font>}}\n
+L. Yu, *X. Cheng*, and J. M. A. Scherpen \n
+/Proc. 58th IEEE Conference on Decision and Control (CDC2019)/. Nice, France, 2019, pp. 7794-7799.
+
+. {{<font color=DarkBlue  >}} [https://ieeexplore.ieee.org/document/9029735 $H_2$ sub-optimal model reduction for second-order network systems] {{</b></font>}}\n
+L. Yu, *X. Cheng*, and J. M. A. Scherpen \n
+/Proc. 58th IEEE Conference on Decision and Control (CDC2019)/. Nice, France, 2019, pp. 5062-5067.
+
+. {{<font color=DarkBlue  >}} [https://ieeexplore.ieee.org/document/9029349 Structure-based Clustering Algorithm for Model Reduction of Large-scale Network Systems] {{</b></font>}}\n
+M. U. B. Niazi, *X. Cheng*, C Canudas-de-Wit, J. M. A. Scherpen \n
+/Proc. 58th IEEE Conference on Decision and Control (CDC2019)/. Nice, France, Dec. 2019, pp. 5038-5043.
+
+. {{<font color=DarkBlue  >}} [https://ieeexplore.ieee.org/document/8795611 Reduced order modeling of linear consensus networks using weight assignments]. {{</b></font>}}\n
+*X. Cheng*, L. Yu, and J. M. A. Scherpen \n
+/Proc. 17th European Control Conference (ECC2019)/. Napoli, Italy, June 2019, pp. 2005-2010.
+
+. {{<font color=DarkBlue  >}} [https://ieeexplore.ieee.org/document/8866098 Quaternion-Based Fault-Tolerant Control Design for Spacecraft Attitude Stabilization: An Anti-Saturation Method]. {{</b></font>}}\n
+N. Zhou, *X. Cheng*, Y. Xia, J. Huang, and Q. Wang \n
+/Proc. 38th Chinese Control Conference (CCC2019)/. Guangzhou, China, July 2019, pp. 2558-2663.
+
+ . {{<font color=DarkBlue  >}} [https://ieeexplore.ieee.org/document/8814738 Multi-agent formation control using angle measurements]. {{</b></font>}}\n
+L. Chen, C. Li, M. Cao, *X. Cheng*, and Y. A. Kapitanyuk.  \n
+/Proc. 2019 American Control Conference (ACC2019)/. Philadelphia, PA, USA, July 2019, pp. 59-64.
+
+  . {{<font color=DarkBlue  >}} [https://doi.org/10.1016/j.ifacol.2018.12.042 Distributed Averaging Control for Voltage Regulation and Current Sharing in DC Microgrids: Modelling and Experimental Validation]. {{</b></font>}}\n
+S. Trip, R. Han, M. Cucuzzella, *X. Cheng*, J. M. A. Scherpen, and J. Guerrero \n
+/IFAC-PapersOnLine/, vol. 51, no.  23, pp. 242-247, 2018, (/7th IFAC Workshop on Distributed Estimation and Control in Networked Systems (NecSys2018)/. Groningen, The Netherlands)
+
+  . {{<font color=DarkBlue  >}} [https://ieeexplore.ieee.org/document/8431082 Sliding Modes for Voltage Regulation and Current Sharing in DC
+Microgrids]. {{</b></font>}}\n
+S. Trip, R. Han, M. Cucuzzella, C. De Persis, *X. Cheng*, and A. Ferrara \n
+/Proc. 2018 American Control Conference (ACC2018)/. Milwaukee, The USA, June 2018, pp. 6778-6783.
+
+  . {{<font color=DarkBlue  >}} [https://ieeexplore.ieee.org/document/8550058 Robust Synchronization Preserving Model Reduction of Lur'e Networks]. {{</b></font>}}\n
+*X. Cheng* and J. M. A. Scherpen \n
+ /Proc. 16th European Control Conference
+(ECC2018)/. Limassol, Cyprus, June 2018, pp. 2254-2259.
+
+  . {{<font color=DarkBlue  >}} [https://ieeexplore.ieee.org/document/8264221 A New Controllability Gramian for Semistable Systems and its Application to Approximation of Directed Networks]. {{</b></font>}}\n
+*X. Cheng* and J. M. A. Scherpen \n
+/Proc. 56th IEEE Conference on Decision and Control (CDC2017)/. Melbourne, Australia, Dec. 2017, pp. 3823-3828.
+ 
+  . {{<font color=DarkBlue  >}} [https://doi.org/10.1016/j.ifacol.2017.08.408 Balanced Truncation Approach to Linear Network System Model Order Reduction]. {{</b></font>}}\n
+*X. Cheng* and J. M. A. Scherpen \n
+ /IFAC-PapersOnLine/, vol. 50, no.  1, pp. 2451-2456, 2018, (/20th IFAC World Congress (IFAC2017)/. Toulouse, France)
+
+  . {{<font color=DarkBlue  >}} [https://ieeexplore.ieee.org/abstract/document/7799423 Model reduction of second-order network systems using graph clustering]. {{</b></font>}}\n
+*X. Cheng*, J. M. A. Scherpen, and Y. Kawano \n
+/Proc. 55th IEEE Conference on Decision and Control (CDC2016)/. Las Vegas, the USA, Dec. 2016,
+pp. 7471-7476.
+
+  . {{<font color=DarkBlue  >}} [https://ieeexplore.ieee.org/document/7799154 Introducing network Gramians to undirected network systems for structure-preserving model reduction]. {{</b></font>}}\n
+*X. Cheng*, and J. M. A. Scherpen\n
+/Proc. 55th IEEE Conference on Decision and Control (CDC2016)/. Las Vegas, the USA, Dec. 2016,
+pp. 5756-5761.
+
+  . {{<font color=DarkBlue  >}} [https://www.researchgate.net/profile/Xiaodong-Cheng-2/publication/312198773_Clustering-Based_Model_Reduction_of_Network_Systems_with_Error_Bounds/links/5b3a93b84585150d23f1cffe/Clustering-Based-Model-Reduction-of-Network-Systems-with-Error-Bounds.pdf Clustering-based Model Reduction of Network Systems with Error Bounds] {{</b></font>}}\n
+*X. Cheng*, Y. Kawano and J. M. A. Scherpen\n
+/Proc. 22nd International Symposium on Mathematical Theory of Networks and Systems (MTNS2016)/. Minnesota, the USA, July 2016, pp. 90-95.
+
+  . {{<font color=DarkBlue  >}} [https://ieeexplore.ieee.org/document/7810580 Graph structure-preserving model reduction of linear network systems] {{</b></font>}}\n
+*X. Cheng*, Y. Kawano and J. M. A. Scherpen\n
+/Proc. 15th European Control Conference (ECC2016)/. Aalborg, Denmark, June 2016, pp. 1970-1975.
+
+~~~

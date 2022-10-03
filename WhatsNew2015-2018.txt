@@ -1,0 +1,84 @@
+~~~
+{2020}
+
+- Dec. 28: I was invited to give a talk in Northwestern Polytechnical University. 
+
+- Dec. 15: Our paper entitled "/A Robust Consensus Algorithm for Current Sharing and Voltage Regulation in DC Microgrids/" received the *2020 IEEE Transactions on Control Systems Technology Outstanding Paper
+Award*. "This award recognizes the paper's originality, relevance of the application, clarity of exposition, and demonstrated impact on control systems technology". The award was presented virtually during the CSS Awards Ceremony at the 2020 IEEE Conference
+on Decision and Control.
+
+- Oct. 9 and 31: I gave online presentations in Shangdong University  and Harbin Institute of Technology, respectively.
+
+- Sept. 11: I was invited to present my work in the International e-Seminar on Control and Systems Theory organized by the University of Kaiserslautern, Germany.
+
+
+- July 17: Our paper entitled "/Balanced Truncation of Networked Linear Passive Systems/" received the [https://www.ifac-control.org/awards/journal-awards *Paper Prize Award*] *in the triennium 2017-2019 from IFAC journal Automatica*, one of the top journals in the systems and control domain. This award was announced during the IFAC World Congress 2020.
+
+- July 13: I attended the [https://www.ifac2020.org/ IFAC World Congress 2020], which was the 1st Virtual IFAC World Congress (IFAC-V 2020).
+
+- June 27: I was invited to the 39th (online) Workshop of Research Center for Complex Systems and Network Sciences, held at Southeast University, Nanjing. I gave a talk on "Identification and Approximation Problems in Networked Systems".
+ 
+
+- March 10-12: I attended the [https://www.beneluxmeeting.nl/2020/ 39th Benelux Meeting on Systems and Control 2020] held at Hotel Mennorode, Elspeet, the Netherlands and presented my work on "Allocation of Excitation Signals for Generic Identifiability of Dynamic Networks". 
+
+
+~~~
+
+
+~~~
+{2018}
+- Nov. 2: I had my PhD thesis defense in the Aula of the Academy Building (University of Groningen) and received PhD degree with distinction cum laude. Click [https://www.rug.nl/research/portal/publications/model-reduction-of-network-systems-with-structure-preservation(b431dc0a-f0ec-40ed-a8b0-7b84a8c29d48).html here] for the complete version of my thesis.
+
+- July 17: I had an invited seminar at the Eindhoven University of Technology, the Netherlands, where I gave a presentation on "Structure-Preserving Model Reduction of Network Systems".
+
+- Aug. 27-28: I attended the [https://fwn06.housing.rug.nl/necsys2018/ 7th IFAC Workshop on Distributed Estimation and Control in Networked Systems (NecSys18)], held at Groningen, the Netherlands.
+
+- June 12-15: I attended the [https://www.ecc18.eu/ 16th annual European Control Conference (ECC2018)], held in Limassol, Cyprus, and I gave an oral presentation on "Robust Synchronization Preserving Model Reduction of Lur'e Networks".
+
+- Mar. 27-29: I attended the [http://www.beneluxmeeting.nl/2018/ 37th Benelux Meeting on Systems and Control 2018] at "Kontakt der Kontinenten", Soesterberg, the Netherlands, and gave a talk on "Synchronization Preserving Model Reduction of Lur'e Networks".
+
+
+~~~
+
+
+~~~
+{2017}
+
+- Oct. 30 - Nov. 2: I attended the [http://www.math.rug.nl/gcsc/morschool.html Groningen Autumn School on Model Order Reduction], the University of Groningen, the Netherlands, where I gave an oral presentation on "Balanced truncation for networks".
+
+- Sept. 21-22: I attended the [http://www.gipsa-lab.fr/animation/manifestations.php?v_actu=719 Workshop on Modelling Reduction Tools for Large Scale Complex Networks], held at Grenoble, France.
+
+- August 7 - 17: I received the financial support from the COST Action EU-MORNET and attended the [http://www.maths.dur.ac.uk/lms/107/ LMS Durham Research Symposium on Model Order Reduction], held at Durham University, Durham, the UK.
+
+- July 9-14: I attended the [https://www.ifac2017.org/index.html 20th World Congress of the International Federation of Automatic Control (IFAC World Congress 2017)], at Toulouse, France, and I gave a presentation on "Balanced Truncation Approach to Model Order Reduction of Network Systems".
+
+- Mar. 27-29: I attended the [http://www.beneluxmeeting.nl/2018/ 36th Benelux Meeting on Systems and Control 2017] at "Sol-Cress", Spa, Belgium, and gave a talk on "Balanced Truncation of Linear Network Systems".
+
+Jan. 11-13: I attended the [https://www.mpi-magdeburg.mpg.de/csc/events/modred2017 3rd Workshop on Model Reduction of Complex Dynamical Systems (MODRED 2017)], held at the University of Southern Denmark, Odense, Denmark, where I presented my work on "Model Reduction of Second-Order Swing Equations with Structural Preservation".
+
+~~~
+
+~~~
+{2016}
+- Dec. 12-14: I attended the [http://cdc2016.ieeecss.org/ 55th IEEE Conference on Decision and Control (CDC2016)], held at at the ARIA Resort & Casino, Las Vegas, NV, USA. In this conference, I gave two oral presentations on "Model Reduction of Second-Order Network Systems using Graph Clustering" and 
+"Introducing Network Gramians to Undirected Network Systems for Structure-Preserving Model Reduction", respectively.
+
+- Oct. 4-7: I attended the [https://www.mpi-magdeburg.mpg.de/csc/events/RBSS2016 Reduced Basis Summer School 2016] in Hedersleben, Germany, which was organized by the Max Planck Institute, Magdeburg. I gave an oral presentation on "Simplification of networks by graph clustering: from a system dynamics point of view".
+
+- June 29 - July 1: I attended the [https://www.ifac-control.org/events/european-control-conference-in-cooperation-with-ifac-15th-ecc-2016 15th annual European Control Conference (ECC2016)], held in Aalborg, Denmark, and I gave an oral presentation on "Graph structure-preserving model reduction of linear network systems".
+
+- Mar. 27-29: I attended the [http://www.beneluxmeeting.nl/2016/ 35th Benelux Meeting on Systems and Control 2016] at "Kontakt der Kontinenten", Soesterberg, the Netherlands, and gave a talk on "Model Reduction of Linear Network Systems Based on Clustering". In this event, I received my DISC Course Certificate issued by the [http://disc.tudelft.nl/ Dutch Institute of Systems and Control].
+
+- Feb. 17-19: I attended the [http://disc.tudelft.nl/activities/disc-wintercourse-2016/ DISC wintercourse 2016] on the topic "Power systems control - from circuits to economics", at the University of Groningen.
+
+~~~
+
+~~~
+{2015}
+
+- June 1-4: I attended the [http://disc-cps15.imtlucca.it/ DISC summercourse on "Control for Cyber-Physical Systems"], at Zandvoort, the Netherlands.
+
+
+- Mar. 24-26: I attended the [https://www.beneluxmeeting.nl/2015/ 34th Benelux Meeting on Systems and Control 2015] at "Center Parcs De Vossemeren", Lommel, Belgium.
+
+~~~

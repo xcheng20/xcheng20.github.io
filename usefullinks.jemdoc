@@ -1,0 +1,35 @@
+# jemdoc: menu{MENU}{usefullinks.html}
+== Useful Links
+
+== Research
+
+- [https://www.sysdynet.eu/ SYSDYNET]: This is the webpage of the ERC ERC Advanced Research Project "Data-Driven Modeling in Dynamic Networks".  
+
+- [http://motion.me.ucsb.edu/book-lns/ Lectures on Network Systems]: A nice lecture note on network systems, written by Prof. Francesco Bullo from 
+University of California, Santa Barbara. 
+
+- [https://morwiki.mpi-magdeburg.mpg.de/morwiki/index.php/Main_Page MOR WiKi]: provides an overview of model reduction methods, available software implementations, and benchmarks of parametric or non-parametric models.
+
+
+
+
+== Toolbox and Data
+
+- [https://nl.mathworks.com/help/matlab/graph-and-network-algorithms.html Graph and Network Algorithms] is MATLAB embedded toolbox, which contains common graph algorithms and provides visulazation for complex networks.
+
+- [https://matpower.org/ Matpower] is a package of MATLAB M-files for solving power flow and optimal power flow problems. Click here for the [https://matpower.org/docs/MATPOWER-manual-5.1.pdf User's Manual].
+
+- [http://slicot.org/20-site/126-benchmark-examples-for-model-reduction Benchmark Examples for Model Reduction].
+
+- [https://sites.google.com/site/bctnet/ The Brain Connectivity Toolbox] is a MATLAB toolbox for complex network analysis of structural and functional brain-connectivity data sets.
+
+- [http://networkrepository.com/index.php Network Repository] is an interactive scientific network data repository.
+
+- [https://sparse.tamu.edu/  SuiteSparse Matrix Collection] is a large and actively growing set of sparse matrices that arise in real applications. 
+
+== Others
+
+- [https://jemdoc.jaboc.net/htmlchanges.html jemdoc] is a light text-based markup language designed for creating websites, which is made by [https://jemnz.com/ Jacob Mattingley]. 
+
+- [http://www.mit.edu/~wsshin/jemdoc+mathjax.html jemdoc+MathJax] is a modification of the original jemdoc and it supports [https://www.mathjax.org/ MathJax], which can show high-quality LaTeX equations.
+ 
