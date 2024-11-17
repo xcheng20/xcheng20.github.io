@@ -3,24 +3,22 @@
 
 
 ~~~
-{Submitted Journal Articles}
+{Preprints}
 
+
+
+
+
+. {{<font color=DarkBlue>}} [A Distributed Time-Varying Optimization Approach Based on an Event-Triggered Scheme]  {{</b></font>}}\n
+ H. Li, *X. Cheng*, P. van Heijster, S. Qin
+(2024)  \[[https://arxiv.org/pdf/2410.19458 arXiv]\]
+
+. {{<font color=DarkBlue>}} [Time-Domain Moment Matching for Second-Order Systems
+]  {{</b></font>}}\n
+*X. Cheng*, T. C. Ionescu, and M. Patrascu.(2022)  \[[https://arxiv.org/abs/2305.01254 arXiv]\]
 
 . {{<font color=DarkBlue>}} [An Optimal Projection Framework for Structure-Preserving Model Reduction of Linear Systems]  {{</b></font>}}\n
-*X. Cheng* (2022) 
-
-
-. {{<font color=DarkBlue>}} [Clustering-Based Average State Observer Design for Large-Scale Network Systems]  {{</b></font>}}\n
-M. U. B. Niazi, *X. Cheng*, C Canudas-de-Wit, J. M. A. Scherpen (2022)\[[https://arxiv.org/abs/2205.13633 arXiv]\]
-
-
-. {{<font color=DarkBlue>}} [I Identifiability in Dynamic Acyclic Networks with Partial Excitations
-and Measurements]  {{</b></font>}}\n
-*X. Cheng*, S. Shi, I. Lestas, and P. M. J. Van den Hof. (2021)\[[https://arxiv.org/abs/2201.07548 arXiv]\]
-
-. {{<font color=DarkBlue>}} [N Necessary Condition for Network Identifiability with Partial Excitation and Measurement]  {{</b></font>}}\n
-*X. Cheng*, S. Shi, I. Lestas, and P. M. J. Van den Hof. (2021)\[[http://arxiv.org/abs/2105.03187 arXiv]\]
-
+*X. Cheng* (2022)  \[[https://arxiv.org/abs/2302.08627 arXiv]\]
 
 
 ~~~
@@ -28,9 +26,39 @@ and Measurements]  {{</b></font>}}\n
 ~~~
 {Journal Articles}
 
+
+. {{<font color=DarkBlue  >}} [https://ieeexplore.ieee.org/abstract/document/10711226 Identifiability in Dynamic Acyclic Networks with Partial Excitations and Measurements]  {{</b></font>}}\n
+*X. Cheng*, S. Shi, I. Lestas, and P. M. J. Van den Hof(2024) \n
+/IEEE Transactions on Automatic Control/, Early Access, 2024
+\[[https://arxiv.org/abs/2201.07548 arXiv]\]
+
+. {{<font color=DarkBlue  >}} [https://www.mdpi.com/1424-8220/24/20/6738 An Overview of Software Sensor Applications in Biosystem Monitoring and Control
+]  {{</b></font>}}\n
+N. Badreldin, *X. Cheng*, A.Youssef (2024) \n
+/Sensors/, 24(20), 6738, 2024
+\[[https://www.preprints.org/manuscript/202409.1722/v1  Preprints]\]
+
+
+. {{<font color=DarkBlue  >}} [https://doi.org/10.1016/j.compag.2023.108578 Chance-constrained stochastic MPC of greenhouse production systems with parametric uncertainty]  {{</b></font>}}\n
+J. L. Svensen, *X. Cheng*, S. Boersma, C. Sun (2024) \n
+/Computers and Electronics in Agriculture/, Volume 217, 108578, February 2024
+ 
+
+. {{<font color=DarkBlue  >}} [https://ieeexplore.ieee.org/document/10025819 Necessary Condition for Network Identifiability with Partial Excitation and Measurement]  {{</b></font>}}\n
+*X. Cheng*, S. Shi, I. Lestas, and P. M. J. Van den Hof(2023) \n
+/IEEE Transactions on Automatic Control/, 68(11), pp.6820-6827, 2023
+\[[https://arxiv.org/abs/2105.03187 arXiv]\]
+
+
+. {{<font color=DarkBlue  >}} [https://www.sciencedirect.com/science/article/pii/S000510982300064X Clustering-Based Average State Observer Design for Large-Scale Network Systems]  {{</b></font>}}\n
+M. U. B. Niazi, *X. Cheng*, C Canudas-de-Wit, J. M. A. Scherpen(2023) \n
+/Automatica/, vol. 151, 110914, 2023
+\[[https://arxiv.org/abs/2205.13633 arXiv]\] \[[https://hal.science/hal-02524982 HAL]\]
+
+
 . {{<font color=DarkBlue  >}} [https://ieeexplore.ieee.org/document/9864230 Reduced-Order Modeling of Diffusively Coupled Network Systems: An Optimal Edge Weighting Approach]  {{</b></font>}}\n
 *X. Cheng*, L. Yu, D. Ren, and J. M. A. Scherpen(2022) \n
-/IEEE Transactions on Automatic Control/, Early Access, 2022
+/IEEE Transactions on Automatic Control/, 68(7), pp.4233-4240, 2022
 \[[https://arxiv.org/abs/2003.03559 arXiv]\]
 
 
@@ -133,8 +161,7 @@ and A.J. van der Schaft\n
 
  . {{<font color=DarkBlue  >}} [https://link.springer.com/article/10.1007/s10444-018-9617-5 Clustering Approach to Model Order Reduction of Power Networks with Distributed Controllers].   {{</b></font>}}\n
 *X. Cheng*, and J. M. A. Scherpen\n
-/IEEE Transactions on
-Automatic Control/, vol. 44, no. 6, pp. 1917-1939, 2018.
+/Advances in Computational Mathematics/, vol. 44, no. 6, pp. 1917-1939, 2018.
 
 
 . {{<font color=DarkBlue  >}} [https://ieeexplore.ieee.org/document/7874139 Reduction of Second-Order Network Systems with Structure Preservation].   {{</b></font>}}\n
@@ -146,17 +173,60 @@ Automatic Control/, vol. 62, no. 4, pp. 5026-5038, 2017.
 ~~~
 
 ~~~
-{Book Chapter}
+{Book Chapter and Reports}
 
 . {{<font color=DarkBlue  >}} [https://doi.org/10.1515/9783110499001-011 Reduced-order modeling of large-scale network systems].   {{</b></font>}}\n
 *X. Cheng*, J. M. A. Scherpen, and H. L. Trentelman \n
 Volumn 3 Applications, / Model Order Reduction /. (Berlin, Boston: De Gruyter, 2020)
+
+. {{<font color=DarkBlue  >}} [https://doi.org/10.33774/miir-2024-f3zf3 Data-driven Parameters Tuning for Predictive Performance Improvement of Wire Bonder Multi-body Model].   {{</b></font>}}\n
+*X. Cheng*, A. Di Bucchianico, N. Javanmardi, M. de Jong, E. L. Diget, C. Please, D. Lahaye, Q. Peng, C. Reisch, D. Sclosa
+ \n /Mathematics in Industry Repository/. 2024
 
 ~~~
 
 ~~~
 {Conference Papers}
 
+. {{<font color=DarkBlue  >}}  Moment matching for second order systems with pole-zero placement {{</b></font>}}\n
+*X. Cheng*,  T. C. Ionescu, O. V. Iftime, I. Necoara \n
+/To appear in Proc. 63rd IEEE Conference on Decision and Control  (CDC2024)/, December 16-19, Milan, Italy. 
+
+. {{<font color=DarkBlue  >}}  Optimal control and limitations of feedback for stochastic epidemic models {{</b></font>}}\n
+G. P. Carratelli, *X. Cheng*, K. V. Parag, I. Lestas \n
+/To appear in Proc. 63rd IEEE Conference on Decision and Control  (CDC2024)/, December 16-19, Milan, Italy. 
+
+. {{<font color=DarkBlue  >}}  Partial closed-loop pole assignment via Sylvester equation for linear time-invariant systems {{</b></font>}}\n
+S. Wang, *X. Cheng*, P. van Heijster \n
+/To appear in Proc. 63rd IEEE Conference on Decision and Control  (CDC2024)/, December 16-19, Milan, Italy. 
+
+. {{<font color=DarkBlue  >}}  Model Order Reduction of Lur'e Network Systems using Almost Equitable Partitions {{</b></font>}}\n
+Y. Dou, *X. Cheng*, J. M. A. Scherpen \n
+/To appear in Proc. 63rd IEEE Conference on Decision and Control  (CDC2024)/, December 16-19, Milan, Italy. 
+
+. {{<font color=DarkBlue  >}}  [https://ieeexplore.ieee.org/abstract/document/10666596/ A Bayesian Neural ODE for a Lettuce Greenhouse] {{</b></font>}}\n
+S. Boersma, *X. Cheng*\n
+/Proc. 8th IEEE Conference on Control Technology and Applications (CCTA2024)/, Newcastle upon Tyne, UK, pp. 782-786
+
+. {{<font color=DarkBlue  >}}  [https://ieeexplore.ieee.org/abstract/document/10591298/ Enhancing Resilience in Angle Droop Control of Inverter-interfaced Microgrids] {{</b></font>}}\n
+M. S Sadabadi, *X. Cheng*\n
+/Proc. 2024 European Control Conference (ECC2024)/, Stockholm, Sweden, pp. 2851-2856.
+
+. {{<font color=DarkBlue  >}}  [https://doi.org/10.23919/ECC64448.2024.10591112 Stability-Preserving Model Reduction of Networked Lur'e Systems] {{</b></font>}}\n
+Y. Dou, *X. Cheng*, J. M. A. Scherpen \n
+/Proc. 2024 European Control Conference (ECC2024)/, Stockholm, Sweden, pp. 2059-2064.
+
+.   {{<font color=Dark Blue >}} [https://doi.org/10.1016/j.ifacol.2024.08.591 SYSDYNE-A MATLAB App and Toolbox for Dynamic Network Identification] {{</b></font>}}\n P.M.J. Van den Hof, S. Shi, H.H.M. Weerts, *X. Cheng*, K. R. Ramaswamy, A. G. Dankers, H.J. Dreef, S. J.M. Fonken, T.R.V. Steentjes, J. B.T. Meijer \n /IFAC-PapersOnLine/, Volume 58, Issue 15, 2024, Pages 574-579 (/20th IFAC Symposium on System Identification/ (SYSID 2024), Boston, United States, July 17-19, 2024).
+
+. {{<font color=DarkBlue  >}}   [https://doi.org/10.1016/j.ifacol.2023.10.1794 Interpolants With Second-Order Structure in the Loewner Framework]  {{</b></font>}}\n
+J. D. Simard,  *X. Cheng*, A. Moreschini \n
+/IFAC-PapersOnLine/, Volume 56, Issue 2, 2023, Pages 4278-4283
+(/22nd IFAC World Congress/, Yokohama, Japan)
+
+.  {{<font color=DarkBlue  >}}   [https://doi.org/10.1016/j.ifacol.2023.10.1794 Signal selection for local module identification in linear dynamic networks: A graphical approach] {{</b></font>}}\n
+S. Shi, *X. Cheng*, B. De Schutter, and P. M. J. Van den Hof \n
+/IFAC-PapersOnLine/, Volume 56, Issue 2, 2023, Pages 2407-2412
+(/22nd IFAC World Congress/, Yokohama, Japan)
  
 . {{<font color=DarkBlue  >}}  [https://ieeexplore.ieee.org/document/9304057 Distributed Formation Control of Multi-Robot Systems: A Fixed-Time Behavioral Approach]  {{</b></font>}}\n
 N. Zhou, *X. Cheng*, Y. Xia, and Y. Liu \n
@@ -222,13 +292,11 @@ S. Trip, R. Han, M. Cucuzzella, C. De Persis, *X. Cheng*, and A. Ferrara \n
 
   . {{<font color=DarkBlue  >}} [https://ieeexplore.ieee.org/abstract/document/7799423 Model reduction of second-order network systems using graph clustering]. {{</b></font>}}\n
 *X. Cheng*, J. M. A. Scherpen, and Y. Kawano \n
-/Proc. 55th IEEE Conference on Decision and Control (CDC2016)/. Las Vegas, the USA, Dec. 2016,
-pp. 7471-7476.
+/Proc. 55th IEEE Conference on Decision and Control (CDC2016)/. Las Vegas, the USA, Dec. 2016, pp. 7471-7476.
 
   . {{<font color=DarkBlue  >}} [https://ieeexplore.ieee.org/document/7799154 Introducing network Gramians to undirected network systems for structure-preserving model reduction]. {{</b></font>}}\n
 *X. Cheng*, and J. M. A. Scherpen\n
-/Proc. 55th IEEE Conference on Decision and Control (CDC2016)/. Las Vegas, the USA, Dec. 2016,
-pp. 5756-5761.
+/Proc. 55th IEEE Conference on Decision and Control (CDC2016)/. Las Vegas, the USA, Dec. 2016, pp. 5756-5761.
 
   . {{<font color=DarkBlue  >}} [https://www.researchgate.net/profile/Xiaodong-Cheng-2/publication/312198773_Clustering-Based_Model_Reduction_of_Network_Systems_with_Error_Bounds/links/5b3a93b84585150d23f1cffe/Clustering-Based-Model-Reduction-of-Network-Systems-with-Error-Bounds.pdf Clustering-based Model Reduction of Network Systems with Error Bounds] {{</b></font>}}\n
 *X. Cheng*, Y. Kawano and J. M. A. Scherpen\n
